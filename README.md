@@ -9,4 +9,7 @@ Running the entire notebook should take approximately 3-4 hours on a GPU. This n
 Its advised when running this notebook in Google Colab to select Runtime -> Change Runtime Type and under Hardware accelerator select CPU or T4 GPU. A GPU is recommended for a faster experience running this notebook.
 
 ## Dataset
-For this project we utilized the GTZAN Dataset
+For this project we utilized the GTZAN Dataset, a dataset commonly used for music genre classification tasks within machine learning
+
+## Results
+You can view the confusion matrix, train and validation loss graphs, and model designs used for our project experiment within the notebook
